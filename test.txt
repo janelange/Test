@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 
 awefawefawef
 blaboharwhawe
+=======
+asldfkjawlekfjawlkefja
+
+
+wlkefjalwekfjalwkegjalwekgjblaboharwhawe
+>>>>>>> feature_1
